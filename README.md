@@ -1,1 +1,0 @@
-# Full.io-Company-Assessment
