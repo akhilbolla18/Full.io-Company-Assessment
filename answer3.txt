@@ -12,8 +12,6 @@ Once you find the desired command, you can press `Enter` to execute it, or you c
 
 
 
-
-
 B) In Linux, hidden directories are typically those whose names start with a dot (.). 
 These directories are hidden by default when listing files and directories using standard commands like ls. 
 
@@ -21,8 +19,6 @@ To list out hidden directories using the Linux command line,
 you can use the following command:
 
 ls -d .*/
-
-
 
 
 C)I have some basic experience with  Linux-based OS  Ubuntu.
