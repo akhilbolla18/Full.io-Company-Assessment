@@ -1,0 +1,29 @@
+A) Reverse-i-search, often referred to as "reverse incremental search," is a feature in a Linux terminal that allows you to search for a previously entered command by typing a few characters of the command. As you type, the terminal displays the most recent command that matches the entered characters.
+
+To perform a reverse-i-search:
+
+1. Open your terminal.
+2. Press `Ctrl` + `R`.
+3. Start typing a few characters of the command you're looking for.
+4. As you type, the terminal will display the most recent command that matches the entered characters.
+5. You can keep typing or pressing `Ctrl` + `R` again to cycle through matching commands.
+
+Once you find the desired command, you can press `Enter` to execute it, or you can modify the command before executing it. This search works in a reverse chronological order, so the most recent matching command will be displayed first.
+
+
+
+
+
+B) In Linux, hidden directories are typically those whose names start with a dot (.). 
+These directories are hidden by default when listing files and directories using standard commands like ls. 
+
+To list out hidden directories using the Linux command line, 
+you can use the following command:
+
+ls -d .*/
+
+
+
+
+C)I have some basic experience with  Linux-based OS  Ubuntu.
+D) No.
