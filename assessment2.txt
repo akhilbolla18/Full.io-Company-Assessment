@@ -1,0 +1,44 @@
+1)Technology Name : jquery
+  Regex Pattern   : r'<script[^>].*src=".*(jquery|jQuery)[-/]3.6.0.*(\.min)*.js><\/script>|https://jquery.com'
+  Sample Website  : https://jquery.com/
+
+2)Technoloy Name  : React js
+  Regex Pattern   : r'<script.*src="https://unpkg\.com/react(-dom)?@18/umd/react(-dom)?\.development\.js"\s+crossorigin></script>|https://react.dev'
+  Sample Website  :https://react.dev/
+
+
+3)Technoloy Name  : Woocommerce
+  Regex Pattern   : r'<link\s+(?:[^>]*\s+)?href=["\'](https?:\/\/[^"\']*(woocommerce\.com|wp-content\/plugins\/woocommerce)[^"\']*)["\'](?:[^>]*)?>'
+  Sample Website  : https://woocommerce.com/product-category/themes/?categoryIds=1033&collections=theme&page=1
+
+
+4)Technoloy Name  : Bootstrap
+  Regex Pattern   : r'(<link[^>]*href=["\'][^>]*bootstrap[^>]*["\'][^>]*>|<script[^>]*src=["\'][^>]*bootstrap[^>]*["\'][^>]*>|<link[^>]*rel=["\']stylesheet["\'][^>]*bootstrap[^>]*["\'][^>]*>)'
+  Sample Website  : https://www.tcs.com/careers
+
+5)Technoloy Name  : Shopify
+  Regex Pattern   : r'<script[^>]*src=["\'][^>]*shopify[^>]*["\'][^>]*>|https:\/\/cdn\.shopify\.com\/.*'
+  Sample Website  :https://www.shopify.com/
+
+
+6)Technoloy Name  : Next js
+  Regex Pattern   : r'<script[^>]*src=["\']https:\/\/cdn\.nextjs\.org\/[^>]*["\'][^>]*><\/script>'
+  Sample Website  : https://alternativeto.net/
+
+
+7)Technoloy Name  : Materialize Css
+  Regex Pattern   : r'<link[^>]*href=["\'][^>]*materialize[^>]*["\'][^>]*>|<link[^>]*rel=["\']stylesheet["\'][^>]*materialize[^>]*["\'][^>]*>|<script[^>]*src=["\'][^>]*materialize[^>]*["\'][^>]*>'
+  Sample Website  : https://www.geeksforgeeks.org/
+
+8)Technoloy Name  : Python
+  Regex Pattern   : r'\.py\b'
+  Sample Website  : https://www.dropbox.com/
+
+9)Technoloy Name  : PHP
+  Regex Pattern   : r'<\?php|<\?='
+  Sample Website  : https://in.search.yahoo.com/
+
+10)Technoloy Name  : Google Maps
+   Regex Pattern   : r'https:\/\/maps\.googleapis\.com\/maps\/api.*|https:\/\/maps\.google\.com\/maps\/api\.*'
+   Sample Website  : https://www.google.com/maps
+  
